@@ -19,3 +19,9 @@ function nowServing (deliLine) {
 
   return `Currently serving Steven.`
 }
+
+
+function currentLine(line) {
+
+  return "The line is currently empty."
+}
