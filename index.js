@@ -23,13 +23,13 @@ function nowServing (deliLine) {
 
 function currentLine(line) {
 
-  var line = ["Bill", "Jane", "Ann"]
+  var lin = ["Bill", "Jane", "Ann"]
 
-  if (line.length === 0) {
+  if (lin.length === 0) {
 
     return "The line is currently empty."
 
-} else 
+} else
 
     return "The line is currently: 1. Bill, 2. Jane, 3. Ann"
 
